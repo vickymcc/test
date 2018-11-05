@@ -1,0 +1,55 @@
+nbproject/
+application/config/config.php
+application/admin/config/config.php
+.htaccess
+admin/.htaccess
+application/config/database.php
+application/admin/config/database.php
+application/logs/
+application/admin/logs/
+upload/*
+upload/virtcab/doc/
+upload/virtcab/img/
+upload/virtcab/video/
+upload/thumbs
+other-ref-data/*
+./ipn_errors.log
+# application/views/themes/default/blocks/*
+# application/views/themes/default/meta/*
+# application/views/themes/default/page/*
+# application/views/themes/default/templates/*
+# application/views/themes/default/widgets/*
+application/views/themes/default/compiled/*
+my-error.log
+log/*
+index.php
+admin/index.php
+imp-debug-points.txt
+bodyguard.nja
+application/cache/*
+application/admin/cache/*
+cache/*
+my-errors.log
+application/third_party/mpdf
+application/admin/third_party/mpdf
+test1.php
+testp.php
+testpp.php
+newerror.log
+.idea/*
+bodyguard.sublime*
+admin/sessions/*
+.htaccess*
+*.txt
+robots*
+sitemap.*
+admin/pdf/*
+ci/*
+*.glue
+generator
+feed_rss*
+#sitemap*
+*.xml
+ebay/*
+.vscode
+
