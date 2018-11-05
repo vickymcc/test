@@ -32,9 +32,6 @@ cache/*
 my-errors.log
 application/third_party/mpdf
 application/admin/third_party/mpdf
-test1.php
-testp.php
-testpp.php
 newerror.log
 .idea/*
 bodyguard.sublime*
