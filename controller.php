@@ -5,4 +5,3 @@ echo 'Welcome to controller file';
 <p>try again to revert paragraph</p>
 <p>Third one try...</p>
 <p>Fourth line paragraph.....</p>
-<p>googol</p>
