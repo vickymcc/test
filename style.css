@@ -1,0 +1,29 @@
+#warp{
+    text-align: center;
+}
+.sec_1{
+    padding-top: 40px;
+    background-color: darkcyan;
+    color:turquoise;
+    height: 25%;
+}
+.sec_2{
+    padding-top: 40px;
+    background-color: black;
+    color:lightslategrey;
+    height: 25%;
+}
+.sec_3{
+    padding-top: 40px;
+    background-color: maroon;
+    color:goldenrod;
+    height: 25%;
+}
+.sec_4{
+    padding-top: 40px;
+    background-color: sienna;
+    color:black;
+    height: 25%;
+}
+
+.font{font-size: 17px;}

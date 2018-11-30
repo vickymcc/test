@@ -1,0 +1,43 @@
+@media(min-width:0px) and (max-width:767px){
+    .font-size{ font-size: 20px;}
+    .sec_1 {padding-top: 17px;}
+    .sec_2 {padding-top: 17px;}
+    .sec_3 {padding-top: 17px;}
+    .sec_4{padding-top: 17px;}
+    .font {font-size: 15px;}
+
+}
+@media(min-width:768px) and (max-width:991px){
+    .font-size{ font-size: 25px;}
+    .sec_1 {padding-top: 17px;}
+    .sec_2 {padding-top: 17px;}
+    .sec_3 {padding-top: 17px;}
+    .sec_4{padding-top: 17px;}
+    .font {font-size: 15px;}
+}
+@media(min-width:992px) and (max-width:1199px){
+    .font-size{ font-size: 26px;}
+    .font {font-size: 15px;}
+    .sec_1 {padding-top: 15px;}
+    .sec_2 {padding-top: 15px;}
+    .sec_3 {padding-top: 15px;}
+    .sec_4{padding-top: 15px;}
+
+}
+
+@media(min-width:1200px) and (max-width:1400px){
+    .font-size{font-size: 27px;}
+    .font {font-size: 15px;}
+    .sec_1 {padding-top: 15px;}
+    .sec_2 {padding-top: 15px;}
+    .sec_3 {padding-top: 15px;}
+    .sec_4{padding-top: 15px;}
+
+}
+
+@media screen and (min-width: 1400px) {
+    .container-fluid {
+        width: 1490px;
+    }
+
+}
